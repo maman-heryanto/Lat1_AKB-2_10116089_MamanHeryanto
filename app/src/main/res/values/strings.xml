@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AKB_10116089</string>
+    <string name="mulai">Mulai</string>
+    <string name="homeText">Monitory Membantu Anda \nMengontrol HP Anak</string>
+    <string name="tkodekeluarga">Kode Keluarga</string>
+    <string name="tkodemiliki">Ketikan kode keluarga yang ayah bunda \nmiliki disini</string>
+    <string name="syarat">Dengan Menekan tombol Masuk berarti anda menyetujui \n<b>Ketentuan Pengguna</b> dan <b>Ketentuan Data</b> Kami </string>
+    <string name="tbelumpunyakode">Belum Punya Kode Keluarga?</string>
+    <string name="tselamat"><b>Beres! Sekarang Kamu \nudah bisa ngecek \npenggunaan HP mu \ntiap hari buat bantu kamu \nngatur waktu :)</b> </string>
+
+
+
+
+
+</resources>
